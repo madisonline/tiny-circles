@@ -1,0 +1,170 @@
+small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary, time, mark, audio, video {
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+h1{
+	font-family: 'Helvetica Neue', 'Arial', sans serif;
+	font-size: 80px;
+	text-align: center;
+    margin: .3em;
+}
+
+h2{
+	clear: both;
+	font-family: 'Helvetica Neue', 'Arial', sans serif;
+	font-size: 22px;
+	text-align: center;
+}
+h3{
+	font-family: 'Helvetica Neue', 'Arial', sans serif;
+	font-size: 18px;
+	text-align: center;
+}
+h4{
+	font-family: 'Helvetica Neue', 'Arial', sans serif;
+	font-size: 18px;
+	color: #f35c22;
+	clear: both;
+}
+h5{
+	font-family: 'Helvetica Neue', 'Arial', sans serif;
+	font-size: 12px;
+	text-transform: uppercase;
+	color: #f35c22;
+	clear: both;
+}
+h4 a:link, h4 a:visited {
+	text-decoration: ;
+	color:#f35c22;
+}
+h4 a:hover, h4 a:active, h4 a:focus {
+	color:lightcoral;
+}
+
+body{
+	width:70%;
+	margin: 0 auto;
+}
+
+#navbar{
+	font-family: 'Helvetica Neue', 'Arial', sans serif;
+	font-size: 18px;
+	list-style-type: none;
+	padding-right:1%;;
+}
+#navbar a:link, #navbar a:visited {
+	text-decoration: none;
+	color:lightcoral;
+}
+#navbar a:hover, #navbar a:active, #navbar a:focus {
+	color:#f35c22;
+}
+.polaroid img {
+	float: left;
+	border: 10px solid #fff;
+	border-bottom: 45px solid #fff;
+	-webkit-box-shadow: 3px 3px 3px #777;
+	-moz-box-shadow: 3px 3px 3px #777;
+	box-shadow: 3px 3px 3px #777;
+	width: 30%;
+}
+.polaroid a:hover img {
+	-webkit-transform: rotate(5deg);
+	-moz-transform: rotate(5deg);
+	-o-transform: rotate(5deg);
+	transform: rotate(5deg);
+}
+.quote p{
+	font-family:'Helvetica Neue', 'Arial', sans serif;
+	font-size: 17px;
+	text-align:center;
+	color:#f35c22;
+}
+.abouttext {
+	margin-left: 40%;
+}
+.quote p{
+	font-family:'Helvetica Neue', 'Arial', sans serif;
+	font-size: 17px;
+	text-align:center;
+	color:#f35c22;
+	clear: both;
+}
+
+p {
+	font-family:'Helvetica Neue', 'Arial', sans serif;
+	font-size: 15px;
+}
+
+p a:link, p a:visited{
+	text-decoration: none;
+	color:lightcoral;
+}
+
+p a:hover, p a:active, p a:focus{
+	color:#f35c22;
+}
+
+#descriptor {
+	text-align: center;
+}
+
+#contactlink{
+	text-align:center;
+}
+#descriptor a:link, #descriptor a:visited{
+	text-decoration:none;
+	color: lightcoral;	
+}
+#descriptor a:hover, #descriptor a:active, #descriptor a:focus{
+	color:#f35c22;
+}
+
+.giphy-embed{
+	margin:0 auto;
+	padding: 0% 20%;
+}
+
+.episode {
+    
+    padding: 10px;
+}
+
+.audio {
+	width:300px;
+	background-color:lightcoral;
+	padding:2%;
+	color: white;
+}
+
+.line{
+	height: 1px;
+    width: 70%;
+	background-color:#f35c22;
+	margin: 2px auto;
+}
+
+.top-line{
+    height: 1px;
+    width: 70%;
+	background-color:#f35c22;
+	margin: 2px auto;
+}
+footer {
+	text-align:center;
+    padding: 100px;
+}
+footer a:link, footer a:visited{
+	text-decoration:none;
+	color:#999999;
+}
+footer a:hover, footer a:active, footer a:focus{
+	color:#3973ac
+}
